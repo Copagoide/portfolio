@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: copagavargas@gmail.com
+    password: zojuzqfvhuvqzlov
+    properties:
+      mail.smtp.auth: true
+      mail.smtp.starttls.enable: true
+
+contact:
+  receiver-email-address: goose.pov@proton.me
